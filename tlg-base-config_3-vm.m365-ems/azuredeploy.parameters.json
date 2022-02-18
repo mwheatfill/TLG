@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "configName": {
-      "value": "TlgBaseConfig-01"
+      "value": "TESTLAB"
     },
     "domainName": {
       "value": "lab.wheatfill.com"
